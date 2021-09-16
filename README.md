@@ -1,4 +1,4 @@
-# website
+# vibe website
 
 You'll need to make a folder called ```config``` then make a ```config.json``` file with the following contents:
 ```

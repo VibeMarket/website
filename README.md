@@ -4,7 +4,8 @@ You'll need to make a folder called ```config``` then make a ```config.json``` f
 ```
 {
   "clientId": "",
-  "clientSecret": ""
+  "clientSecret": "",
+  "port": "80" (you can change this!)
 }
 ```
 
